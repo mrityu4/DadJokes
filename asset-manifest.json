@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mrityu4/DadJokes/static/css/main.3a0dd60e.chunk.css",
+    "main.js": "/mrityu4/DadJokes/static/js/main.4a6d20e0.chunk.js",
+    "main.js.map": "/mrityu4/DadJokes/static/js/main.4a6d20e0.chunk.js.map",
+    "runtime-main.js": "/mrityu4/DadJokes/static/js/runtime-main.cbfc31ae.js",
+    "runtime-main.js.map": "/mrityu4/DadJokes/static/js/runtime-main.cbfc31ae.js.map",
+    "static/js/2.94bb1508.chunk.js": "/mrityu4/DadJokes/static/js/2.94bb1508.chunk.js",
+    "static/js/2.94bb1508.chunk.js.map": "/mrityu4/DadJokes/static/js/2.94bb1508.chunk.js.map",
+    "static/js/3.eb69a6a7.chunk.js": "/mrityu4/DadJokes/static/js/3.eb69a6a7.chunk.js",
+    "static/js/3.eb69a6a7.chunk.js.map": "/mrityu4/DadJokes/static/js/3.eb69a6a7.chunk.js.map",
+    "index.html": "/mrityu4/DadJokes/index.html",
+    "static/css/main.3a0dd60e.chunk.css.map": "/mrityu4/DadJokes/static/css/main.3a0dd60e.chunk.css.map",
+    "static/js/2.94bb1508.chunk.js.LICENSE.txt": "/mrityu4/DadJokes/static/js/2.94bb1508.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbfc31ae.js",
+    "static/js/2.94bb1508.chunk.js",
+    "static/css/main.3a0dd60e.chunk.css",
+    "static/js/main.4a6d20e0.chunk.js"
+  ]
+}
